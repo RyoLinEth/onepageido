@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df87648d.css",
+    "main.js": "/static/js/main.09f2c469.js",
+    "static/media/NewYear.png": "/static/media/NewYear.448d268362ef11b8d81e.png",
+    "static/media/backgroundTimer.png": "/static/media/backgroundTimer.99e583da3ffaff7cfcea.png",
+    "static/media/tuYuanYuan3.png": "/static/media/tuYuanYuan3.817ce4494a74f63f4113.png",
+    "static/media/TuYuanYuanIDO2.png": "/static/media/TuYuanYuanIDO2.f773d4686c6220ec5426.png",
+    "static/media/Mechanism.png": "/static/media/Mechanism.6e46852ebfacf7b4da13.png",
+    "static/media/TuYuanYuanIDO.png": "/static/media/TuYuanYuanIDO.33b9028716b14f1b910d.png",
+    "static/media/tuLogo2.png": "/static/media/tuLogo2.4441ebe0f5c7888ae9b1.png",
+    "index.html": "/index.html",
+    "main.df87648d.css.map": "/static/css/main.df87648d.css.map",
+    "main.09f2c469.js.map": "/static/js/main.09f2c469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df87648d.css",
+    "static/js/main.09f2c469.js"
+  ]
+}
